@@ -35,7 +35,6 @@ while is_race_on:
                 print(f"You lost! The {winning_color} turtle is the winner!")   
 
 
-
 # tom=Turtle()
 # tom.penup()
 # tom.goto(x=-485,y=-100)
